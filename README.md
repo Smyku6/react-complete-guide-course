@@ -4,7 +4,43 @@
 
 # Course Curriculum
 MY PROGRESS 
-![2%](https://progress-bar.dev/2/?title=9/454)
+
+![my-progress](https://progress-bar.dev/9/?scale=454&suffix=/454)
+
+SECTIONS:
+- [x] Getting Started 
+- [ ] Optional: JavaScript Refresher
+- [ ] React Basics & Working With Components
+- [ ] React State & Working with Events
+- [ ] Rendering Lists & Conditional Content
+- [ ] Styling React Components
+- [ ] Debugging React Apps
+- [ ] Time to Practice: A Complete Practice Project
+- [ ] Diving Deeper: Working with Fragments, Portals & "Refs"
+- [ ] Advanced: Handling Side Effects, Using Reducers & Using the Context API
+- [ ] Practice Project: Building a Food Order App
+- [ ] A Look Behind The Scenes Of React & Optimization Techniques
+- [ ] An Alternative Way Of Building Components: Class-based Components
+- [ ] Sending Http Requests (e.g. Connecting to a Database)
+- [ ] Building Custom React Hooks
+- [ ] Working with Forms & User Input
+- [ ] Practice Project: Adding Http & Forms To The Food Order App
+- [ ] Diving into Redux (An Alternative To The Context API)
+- [ ] Advanced Redux
+- [ ] Building a Multi-Page SPA with React Router
+- [ ] Deploying React Apps
+- [ ] Authentication
+- [ ] A (Pretty Deep Dive) Introduction to Next.js
+- [ ] Animating React Apps
+- [ ] Replacing Redux with React Hooks
+- [ ] Testing React Apps (Unit Tests)
+- [ ] React & TypeScript
+- [ ] Optional: React Hooks Introduction & Summary
+- [ ] Optional: React Summary & Core Feature Walkthrough
+- [ ] Course Roundup
+
+
+
 ## Getting Started 
 ![100%](https://progress-bar.dev/100/?title=9/9)
 - [x] Welcome To The Course! (1:04)
