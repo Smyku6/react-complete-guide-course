@@ -5,11 +5,11 @@
 # Course Curriculum
 MY PROGRESS 
 
-![my-progress](https://progress-bar.dev/9/?scale=454&suffix=/454)
+![my-progress](https://progress-bar.dev/20/?scale=454&suffix=/454)
 
 SECTIONS:
 - [x] Getting Started 
-- [ ] Optional: JavaScript Refresher
+- [x] Optional: JavaScript Refresher
 - [ ] React Basics & Working With Components
 - [ ] React State & Working with Events
 - [ ] Rendering Lists & Conditional Content
@@ -54,18 +54,18 @@ SECTIONS:
 - [x] Setting Up The Course Dev Environment (Code Editor) (4:55)
 
 ## Optional: JavaScript Refresher
-![100%](https://progress-bar.dev/0/?title=0/11)
-- [ ] Module Introduction (1:35)
-- [ ] Understanding "let" and "const" (3:05)
-- [ ] Arrow Functions (5:27)
-- [ ] Exports and Imports (4:43)
-- [ ] Understanding Classes (4:37)
-- [ ] Classes, Properties and Methods (3:03)
-- [ ] The Spread & Rest Operator (6:30)
-- [ ] Destructuring (3:13)
-- [ ] Reference and Primitive Types Refresher (4:26)
-- [ ] Refreshing Array Functions (2:45)
-- [ ] Wrap Up (0:52)
+![100%](https://progress-bar.dev/100/?title=11/11)
+- [x] Module Introduction (1:35)
+- [x] Understanding "let" and "const" (3:05)
+- [x] Arrow Functions (5:27)
+- [x] Exports and Imports (4:43)
+- [x] Understanding Classes (4:37)
+- [x] Classes, Properties and Methods (3:03)
+- [x] The Spread & Rest Operator (6:30)
+- [x] Destructuring (3:13)
+- [x] Reference and Primitive Types Refresher (4:26)
+- [x] Refreshing Array Functions (2:45)
+- [x] Wrap Up (0:52)
  
 ## React Basics & Working With Components
 ![100%](https://progress-bar.dev/0/?title=0/21)
