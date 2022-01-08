@@ -68,10 +68,10 @@ SECTIONS:
 - [x] Wrap Up (0:52)
  
 ## React Basics & Working With Components
-![100%](https://progress-bar.dev/0/?title=0/21)
-- [ ] Module Introduction (3:44)
-- [ ] What Are Components? And Why Is React All About Them? (7:10)
-- [ ] React Code Is Written In A "Declarative Way"! (3:42)
+![100%](https://progress-bar.dev/5/?title=3/21)
+- [x] Module Introduction (3:44)
+- [x] What Are Components? And Why Is React All About Them? (7:10)
+- [x] React Code Is Written In A "Declarative Way"! (3:42)
 - [ ] Creating a new React Project (12:23)
 - [ ] Analyzing a Standard React Project (11:51)
 - [ ] Introducing JSX (3:58)
