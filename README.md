@@ -10,7 +10,7 @@ MY PROGRESS
 SECTIONS:
 - [x] Getting Started 
 - [x] Optional: JavaScript Refresher
-- [x] React Basics & Working With Components
+- [x] [React Basics & Working With Components](https://github.com/Smyku6/react-complete-guide-course/tree/%23001-react-basics)
 - [ ] React State & Working with Events
 - [ ] Rendering Lists & Conditional Content
 - [ ] Styling React Components
