@@ -5,12 +5,12 @@
 # Course Curriculum
 MY PROGRESS 
 
-![my-progress](https://progress-bar.dev/20/?scale=454&suffix=/454)
+![my-progress](https://progress-bar.dev/41/?scale=454&suffix=/454)
 
 SECTIONS:
 - [x] Getting Started 
 - [x] Optional: JavaScript Refresher
-- [ ] React Basics & Working With Components
+- [x] React Basics & Working With Components
 - [ ] React State & Working with Events
 - [ ] Rendering Lists & Conditional Content
 - [ ] Styling React Components
@@ -68,28 +68,28 @@ SECTIONS:
 - [x] Wrap Up (0:52)
  
 ## React Basics & Working With Components
-![100%](https://progress-bar.dev/5/?title=3/21)
+![100%](https://progress-bar.dev/100/?title=21/21)
 - [x] Module Introduction (3:44)
 - [x] What Are Components? And Why Is React All About Them? (7:10)
 - [x] React Code Is Written In A "Declarative Way"! (3:42)
-- [ ] Creating a new React Project (12:23)
-- [ ] Analyzing a Standard React Project (11:51)
-- [ ] Introducing JSX (3:58)
-- [ ] How React Works (4:22)
-- [ ] Building a First Custom Component (9:00)
-- [ ] Writing More Complex JSX Code (5:05)
-- [ ] Adding Basic CSS Styling (4:47)
-- [ ] Outputting Dynamic Data & Working with Expressions in JSX (8:20)
-- [ ] Passing Data via "props" (12:38)
-- [ ] Adding "normal" JavaScript Logic to Components (5:57)
-- [ ] Splitting Components Into Multiple Components (10:46)
-- [ ] Time to Practice: React & Component Basics - Problem (2:31)
-- [ ] Time to Practice: React & Component Basics - Solution (7:25)
-- [ ] The Concept of "Composition" ("children props") (13:07)
-- [ ] A First Summary (4:06)
-- [ ] A Closer Look At JSX (9:09)
-- [ ] Organizing Component Files (3:05)
-- [ ] An Alternative Function Syntax (2:39)
+- [x] Creating a new React Project (12:23)
+- [x] Analyzing a Standard React Project (11:51)
+- [x] Introducing JSX (3:58)
+- [x] How React Works (4:22)
+- [x] Building a First Custom Component (9:00)
+- [x] Writing More Complex JSX Code (5:05)
+- [x] Adding Basic CSS Styling (4:47)
+- [x] Outputting Dynamic Data & Working with Expressions in JSX (8:20)
+- [x] Passing Data via "props" (12:38)
+- [x] Adding "normal" JavaScript Logic to Components (5:57)
+- [x] Splitting Components Into Multiple Components (10:46)
+- [x] Time to Practice: React & Component Basics - Problem (2:31)
+- [x] Time to Practice: React & Component Basics - Solution (7:25)
+- [x] The Concept of "Composition" ("children props") (13:07)
+- [x] A First Summary (4:06)
+- [x] A Closer Look At JSX (9:09)
+- [x] Organizing Component Files (3:05)
+- [x] An Alternative Function Syntax (2:39)
  
 ## React State & Working with Events
 ![100%](https://progress-bar.dev/0/?title=0/17)
