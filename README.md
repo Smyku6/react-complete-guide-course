@@ -5,7 +5,7 @@
 # Course Curriculum
 MY PROGRESS 
 
-![my-progress](https://progress-bar.dev/41/?scale=454&suffix=/454)
+![my-progress](https://progress-bar.dev/55/?scale=454&suffix=/454)
 
 SECTIONS:
 - [x] Getting Started 
@@ -42,7 +42,7 @@ SECTIONS:
 
 
 ## Getting Started 
-![100%](https://progress-bar.dev/100/?title=9/9)
+![my-progress](https://progress-bar.dev/9/?scale=9&suffix=/9)
 - [x] Welcome To The Course! (1:04)
 - [x] What is React.js? (4:37)
 - [x] Why React Instead Of "Just JavaScript"? (7:25)
@@ -54,7 +54,7 @@ SECTIONS:
 - [x] Setting Up The Course Dev Environment (Code Editor) (4:55)
 
 ## Optional: JavaScript Refresher
-![100%](https://progress-bar.dev/100/?title=11/11)
+![my-progress](https://progress-bar.dev/11/?scale=11&suffix=/11)
 - [x] Module Introduction (1:35)
 - [x] Understanding "let" and "const" (3:05)
 - [x] Arrow Functions (5:27)
@@ -68,7 +68,7 @@ SECTIONS:
 - [x] Wrap Up (0:52)
  
 ## React Basics & Working With Components
-![100%](https://progress-bar.dev/100/?title=21/21)
+![my-progress](https://progress-bar.dev/21/?scale=21&suffix=/21)
 - [x] Module Introduction (3:44)
 - [x] What Are Components? And Why Is React All About Them? (7:10)
 - [x] React Code Is Written In A "Declarative Way"! (3:42)
@@ -92,21 +92,21 @@ SECTIONS:
 - [x] An Alternative Function Syntax (2:39)
  
 ## React State & Working with Events
-![100%](https://progress-bar.dev/0/?title=0/17)
-- [ ] Module Introduction (2:27)
-- [ ] Listening to Events & Working with Event Handlers (9:39)
-- [ ] How Component Functions Are Executed (5:44)
-- [ ] Working with "State" (10:53)
-- [ ] A Closer Look at the "useState" Hook (7:36)
-- [ ] Adding Form Inputs (9:58)
-- [ ] Listening to User Input (5:17)
-- [ ] Working with Multiple States (6:44)
-- [ ] Using One State Instead (And What's Better) (4:51)
-- [ ] Updating State That Depends On The Previous State (4:37)
-- [ ] Handling Form Submission (4:54)
-- [ ] Adding Two-Way Binding (2:57)
-- [ ] Child-to-Parent Component Communication (Bottom-up) (13:56)
-- [ ] Lifting The State Up (7:00)
+![my-progress](https://progress-bar.dev/14/?scale=17&suffix=/17)
+- [x] Module Introduction (2:27)
+- [x] Listening to Events & Working with Event Handlers (9:39)
+- [x] How Component Functions Are Executed (5:44)
+- [x] Working with "State" (10:53)
+- [x] A Closer Look at the "useState" Hook (7:36)
+- [x] Adding Form Inputs (9:58)
+- [x] Listening to User Input (5:17)
+- [x] Working with Multiple States (6:44)
+- [x] Using One State Instead (And What's Better) (4:51)
+- [x] Updating State That Depends On The Previous State (4:37)
+- [x] Handling Form Submission (4:54)
+- [x] Adding Two-Way Binding (2:57)
+- [x] Child-to-Parent Component Communication (Bottom-up) (13:56)
+- [x] Lifting The State Up (7:00)
 - [ ] Time to Practice: Working with Events & State - Problem (2:32)
 - [ ] Time to Practice: Working with Events & State - Solution (8:42)
 - [ ] Controlled vs Uncontrolled Components & Stateless vs Stateful Components (5:22)
