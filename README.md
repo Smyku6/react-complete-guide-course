@@ -5,7 +5,7 @@
 # Course Curriculum
 MY PROGRESS 
 
-![my-progress](https://progress-bar.dev/58/?scale=454&suffix=/454)
+![my-progress](https://progress-bar.dev/64/?scale=454&suffix=/454)
 
 SECTIONS:
 - [x] Getting Started 
@@ -113,13 +113,13 @@ SECTIONS:
 
  
 ## Rendering Lists & Conditional Content
-![my-progress](https://progress-bar.dev/0/?scale=13&suffix=/13)
-- [ ] Module Introduction (0:45)
-- [ ] Rendering Lists of Data (7:07)
-- [ ] Using Stateful Lists (4:30)
-- [ ] Understanding "Keys" (6:59)
-- [ ] Time to Practice: Working with Lists - Problem (1:15)
-- [ ] Time to Practice: Working with Lists - Solution (4:44)
+![my-progress](https://progress-bar.dev/6/?scale=13&suffix=/13)
+- [x] Module Introduction (0:45)
+- [x] Rendering Lists of Data (7:07)
+- [x] Using Stateful Lists (4:30)
+- [x] Understanding "Keys" (6:59)
+- [x] Time to Practice: Working with Lists - Problem (1:15)
+- [x] Time to Practice: Working with Lists - Solution (4:44)
 - [ ] Outputting Conditional Content (6:46)
 - [ ] Adding Conditional Return Statements (5:21)
 - [ ] Time to Practice: Conditional Content - Problem (1:01)
