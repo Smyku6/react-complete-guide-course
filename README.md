@@ -5,13 +5,13 @@
 # Course Curriculum
 MY PROGRESS 
 
-![my-progress](https://progress-bar.dev/55/?scale=454&suffix=/454)
+![my-progress](https://progress-bar.dev/58/?scale=454&suffix=/454)
 
 SECTIONS:
 - [x] Getting Started 
 - [x] Optional: JavaScript Refresher
-- [x] [React Basics & Working With Components](https://github.com/Smyku6/react-complete-guide-course/tree/%23001-react-basics)
-- [ ] React State & Working with Events
+- [x] [React Basics & Working with Components](https://github.com/Smyku6/react-complete-guide-course/tree/%23001-react-basics)
+- [x] [React State & Working with Events](https://github.com/Smyku6/react-complete-guide-course/tree/%23002-react-state)
 - [ ] Rendering Lists & Conditional Content
 - [ ] Styling React Components
 - [ ] Debugging React Apps
@@ -92,7 +92,7 @@ SECTIONS:
 - [x] An Alternative Function Syntax (2:39)
  
 ## React State & Working with Events
-![my-progress](https://progress-bar.dev/14/?scale=17&suffix=/17)
+![my-progress](https://progress-bar.dev/17/?scale=17&suffix=/17)
 - [x] Module Introduction (2:27)
 - [x] Listening to Events & Working with Event Handlers (9:39)
 - [x] How Component Functions Are Executed (5:44)
@@ -107,13 +107,13 @@ SECTIONS:
 - [x] Adding Two-Way Binding (2:57)
 - [x] Child-to-Parent Component Communication (Bottom-up) (13:56)
 - [x] Lifting The State Up (7:00)
-- [ ] Time to Practice: Working with Events & State - Problem (2:32)
-- [ ] Time to Practice: Working with Events & State - Solution (8:42)
-- [ ] Controlled vs Uncontrolled Components & Stateless vs Stateful Components (5:22)
+- [x] Time to Practice: Working with Events & State - Problem (2:32)
+- [x] Time to Practice: Working with Events & State - Solution (8:42)
+- [x] Controlled vs Uncontrolled Components & Stateless vs Stateful Components (5:22)
 
  
 ## Rendering Lists & Conditional Content
-![100%](https://progress-bar.dev/0/?title=0/13)
+![my-progress](https://progress-bar.dev/0/?scale=13&suffix=/13)
 - [ ] Module Introduction (0:45)
 - [ ] Rendering Lists of Data (7:07)
 - [ ] Using Stateful Lists (4:30)
@@ -129,7 +129,7 @@ SECTIONS:
 - [ ] Wrap Up & Next Steps (11:04)
 
 ## Styling React Components
-![100%](https://progress-bar.dev/0/?title=0/8)
+![my-progress](https://progress-bar.dev/0/?scale=8&suffix=/8)
 - [ ] Module Introduction (3:43)
 - [ ] Setting Dynamic Inline Styles (8:58)
 - [ ] Setting CSS Classes Dynamically (5:00)
@@ -141,7 +141,7 @@ SECTIONS:
 
  
 ## Debugging React Apps
-![100%](https://progress-bar.dev/0/?title=0/5)
+![my-progress](https://progress-bar.dev/0/?scale=5&suffix=/5)
 - [ ] Module Introduction (1:34)
 - [ ] Understanding React Error Messages (6:19)
 - [ ] Analyzing Code Flow & Warnings (5:53)
@@ -149,7 +149,7 @@ SECTIONS:
 - [ ] Using the React DevTools (5:59)
  
 ## Time to Practice: A Complete Practice Project
-![100%](https://progress-bar.dev/0/?title=0/10)
+![my-progress](https://progress-bar.dev/0/?scale=10&suffix=/10)
 
 - [ ] Module Introduction (2:56)
 - [ ] Adding a "User" Component (7:06)
@@ -164,7 +164,8 @@ SECTIONS:
 
 
 ## Diving Deeper: Working with Fragments, Portals & "Refs"
-![100%](https://progress-bar.dev/0/?title=0/8)
+![my-progress](https://progress-bar.dev/0/?scale=8&suffix=/8)
+
 - [ ] Module Introduction (0:49)
 - [ ] JSX Limitations & Workarounds (8:46)
 - [ ] Creating a Wrapper Component (4:14)
@@ -175,7 +176,8 @@ SECTIONS:
 - [ ] Controlled vs Uncontrolled Components (3:04)
  
 ## Advanced: Handling Side Effects, Using Reducers & Using the Context API
-![100%](https://progress-bar.dev/0/?title=0/19)
+![my-progress](https://progress-bar.dev/0/?scale=19&suffix=/19)
+
 - [ ] Module Introduction (1:35)
 - [ ] What are "Side Effects" & Introducing useEffect (6:52)
 - [ ] Using the useEffect() Hook (10:57)
@@ -197,7 +199,8 @@ SECTIONS:
 - [ ] Diving into "Forward Refs" (13:39)
  
 ## Practice Project: Building a Food Order App
-![100%](https://progress-bar.dev/0/?title=0/18)
+![my-progress](https://progress-bar.dev/0/?scale=18&suffix=/18)
+
 - [ ] Module Introduction (2:49)
 - [ ] Starting Setup (4:10)
 - [ ] Adding a "Header" Component (9:07)
@@ -219,7 +222,8 @@ SECTIONS:
 
  
 ## A Look Behind The Scenes Of React & Optimization Techniques
-![100%](https://progress-bar.dev/0/?title=0/11)
+![my-progress](https://progress-bar.dev/0/?scale=11&suffix=/11)
+
 - [ ] Module Introduction (2:16)
 - [ ] How React Really Works (7:22)
 - [ ] Component Updates In Action (6:51)
@@ -233,7 +237,8 @@ SECTIONS:
 - [ ] Optimizing with useMemo() (9:01)
  
 ## An Alternative Way Of Building Components: Class-based Components
-![100%](https://progress-bar.dev/0/?title=0/9)
+![my-progress](https://progress-bar.dev/0/?scale=9&suffix=/9)
+
 - [ ] Module Introduction (2:10)
 - [ ] What & Why (4:52)
 - [ ] Adding a First Class-based Component (6:54)
@@ -245,7 +250,8 @@ SECTIONS:
 - [ ] Introducing Error Boundaries (9:52)
  
 ## Sending Http Requests (e.g. Connecting to a Database)
-![100%](https://progress-bar.dev/0/?title=0/11)
+![my-progress](https://progress-bar.dev/0/?scale=11&suffix=/11)
+
 - [ ] Module Introduction (1:46)
 - [ ] How To (Not) Connect To A Database (3:32)
 - [ ] Our- [ ] ing App & Backend (3:52)
@@ -259,7 +265,8 @@ SECTIONS:
 - [ ] Wrap Up (1:16)
  
 ## Building Custom React Hooks
-![100%](https://progress-bar.dev/0/?title=0/10)
+![my-progress](https://progress-bar.dev/0/?scale=10&suffix=/10)
+
 - [ ] Module Introduction (1:25)
 - [ ] What are "Custom Hooks"? (1:44)
 - [ ] Creating a Custom React Hook Function (6:39)
@@ -272,7 +279,8 @@ SECTIONS:
 - [ ] Using The Custom Hook In More Components (8:53)
  
 ## Working with Forms & User Input
-![100%](https://progress-bar.dev/0/?title=0/18)
+![my-progress](https://progress-bar.dev/0/?scale=18&suffix=/18)
+
 - [ ] Module Introduction (1:36)
 - [ ] Our- [ ] ing Setup (1:41)
 - [ ] What's So Complex About Forms? (5:08)
@@ -293,7 +301,8 @@ SECTIONS:
 - [ ] Bonus: Using useReducer() (8:22)
 
 ## Practice Project: Adding Http & Forms To The Food Order App
-![100%](https://progress-bar.dev/0/?title=0/11)
+![my-progress](https://progress-bar.dev/0/?scale=11&suffix=/11)
+
 - [ ] Module Introduction (3:21)
 - [ ] Moving "Meals" Data To The Backend (4:05)
 - [ ] Fetching Meals via Http (9:27)
@@ -307,7 +316,8 @@ SECTIONS:
 - [ ] Summary (1:31)
  
 ## Diving into Redux (An Alternative To The Context API)
-![100%](https://progress-bar.dev/0/?title=0/23)
+![my-progress](https://progress-bar.dev/0/?scale=23&suffix=/23)
+
 - [ ] Module Introduction (1:05)
 - [ ] Another Look At State In React Apps (5:14)
 - [ ] Redux vs React Context (6:19)
@@ -333,7 +343,7 @@ SECTIONS:
 - [ ] Summary (3:53)
  
 ## Advanced Redux
-![100%](https://progress-bar.dev/0/?title=0/14)
+![my-progress](https://progress-bar.dev/0/?scale=14&suffix=/14)
 
 - [ ] Module Introduction (0:39)
 - [ ] Redux & Side Effects (and Asynchronous Code) (3:27)
@@ -352,7 +362,7 @@ SECTIONS:
 - [ ] Summary (1:52)
  
 ## Building a Multi-Page SPA with React Router
-![100%](https://progress-bar.dev/0/?title=0/25)
+![my-progress](https://progress-bar.dev/0/?scale=25&suffix=/25)
 
 - [ ] Module Introduction (2:53)
 - [ ] What is Routing & Why? (5:06)
@@ -381,7 +391,7 @@ SECTIONS:
 - [ ] Adding the "Comments" Features (18:40)
 
 ## Deploying React Apps
-![100%](https://progress-bar.dev/0/?title=0/6)
+![my-progress](https://progress-bar.dev/0/?scale=6&suffix=/6)
 
 - [ ] Module Introduction (1:39)
 - [ ] Deployment Steps (3:35)
@@ -391,7 +401,7 @@ SECTIONS:
 - [ ] Exploring Routing Issues & Finishing Deployment (7:49)
  
 ## Authentication
-![100%](https://progress-bar.dev/0/?title=0/14)
+![my-progress](https://progress-bar.dev/0/?scale=14&suffix=/14)
 
 - [ ] Module Introduction (1:39)
 - [ ] What, How & Why? (12:11)
@@ -410,7 +420,8 @@ SECTIONS:
 - [ ] Finishing Steps (11:10)
  
 ## A (Pretty Deep Dive) Introduction to Next.js
-![100%](https://progress-bar.dev/0/?title=0/34)
+![my-progress](https://progress-bar.dev/0/?scale=34&suffix=/34)
+
 - [ ] Module Introduction (2:08)
 - [ ] What is NextJS? (4:45)
 - [ ] Key Feature 1: Built-in Server-side Rendering (Improved SEO!) (6:37)
@@ -447,7 +458,8 @@ SECTIONS:
 - [ ] Summary (2:15)
  
 ## Animating React Apps
-![100%](https://progress-bar.dev/0/?title=0/15)
+![my-progress](https://progress-bar.dev/0/?scale=15&suffix=/15)
+
 - [ ] Module Introduction (2:58)
 - [ ] Preparing the Demo Project (4:56)
 - [ ] Using CSS Transitions (4:34)
@@ -465,7 +477,8 @@ SECTIONS:
 - [ ] Wrap Up (1:57)
  
 ## Replacing Redux with React Hooks
-![100%](https://progress-bar.dev/0/?title=0/12)
+![my-progress](https://progress-bar.dev/0/?scale=12&suffix=/12)
+
 - [ ] Module Introduction (1:01)
 - [ ] Starting Project & Why You Would Replace Redux (4:19)
 - [ ] Alternative: Using the Context API (7:13)
@@ -480,7 +493,8 @@ SECTIONS:
 - [ ] Wrap Up (2:00)
  
 ## Testing React Apps (Unit Tests)
-![100%](https://progress-bar.dev/0/?title=0/13)
+![my-progress](https://progress-bar.dev/0/?scale=13&suffix=/13)
+
 - [ ] Module Introduction (1:23)
 - [ ] What & Why? (3:23)
 - [ ] Understanding Different Kinds Of Tests (4:04)
@@ -496,7 +510,8 @@ SECTIONS:
 - [ ] Summary & Further Resources (3:47)
  
 ## React & TypeScript
-![100%](https://progress-bar.dev/0/?title=0/24)
+![my-progress](https://progress-bar.dev/0/?scale=24&suffix=/24)
+
 - [ ] Module Introduction (1:26)
 - [ ] What & Why? (6:34)
 - [ ] Installing & Using TypeScript (6:38)
@@ -524,7 +539,8 @@ SECTIONS:
 - [ ] Bonus: Exploring tsconfig.json (5:46)
  
 ## Optional: React Hooks Introduction & Summary
-![100%](https://progress-bar.dev/0/?title=0/28)
+![my-progress](https://progress-bar.dev/0/?scale=28&suffix=/28)
+
 - [ ] Module Introduction (2:10)
 - [ ] What Are React Hooks? (4:56)
 - [ ] The- [ ] ing Project (4:51)
@@ -556,7 +572,8 @@ SECTIONS:
 - [ ] Wrap Up (3:05)
  
 ## Optional: React Summary & Core Feature Walkthrough
-![100%](https://progress-bar.dev/0/?title=0/34)
+![my-progress](https://progress-bar.dev/0/?scale=34&suffix=/34)
+
 - [ ] Module Introduction (2:16)
 - [ ] What Is React? (3:47)
 - [ ] Why React? (7:25)
@@ -593,7 +610,8 @@ SECTIONS:
 - [ ] Summary (1:04)
  
 ## Course Roundup
-![100%](https://progress-bar.dev/0/?title=0/3)
+![my-progress](https://progress-bar.dev/0/?scale=3&suffix=/3)
+
 - [ ] What Now? Next Steps You Could Take! (3:19)
 - [ ] Explore The React Ecosystem! (4:27)
 - [ ] Finishing Thoughts (1:10)
